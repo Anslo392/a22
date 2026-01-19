@@ -1,2 +1,2 @@
 # a22
-WC 2018 Simulator
+World Cup Simulator
